@@ -1036,7 +1036,6 @@ const exercises = [_]Exercise{
     .{
         .main_file = "074_comptime9.zig",
         .output = "My llama value is 2.",
-        .skip = true,
     },
     .{
         .main_file = "075_quiz8.zig",
